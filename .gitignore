@@ -2,3 +2,5 @@ Minecraft.Client
 bin
 obj
 *.lock.json
+ARM-Template/azuredeploy.parameters.1.json
+ARM-Template/*.ps1

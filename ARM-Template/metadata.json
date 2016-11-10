@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy Minecraft Server with Raspberry Jam Mod using Docker on Ubuntu",
+  "description": "This template allows you to deploy a Minecraft Server with Raspberry Jam Mod using Docker on Ubuntu.",
+  "summary": "This deploys Minecraft Server with Raspberry Jam Mod using Docker on Ubuntu",
+  "githubUsername": "rstropek",
+  "dateUpdated": "2016-11-10"
+}
