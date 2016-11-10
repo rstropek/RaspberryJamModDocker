@@ -13,6 +13,8 @@
 
 This template deploys an Ubuntu host with Docker installed. Next, it deploys a Docker image for a [Minecraft serer with the Raspberry Jam Mod](https://hub.docker.com/r/rstropek/raspberryjammoddocker/) installed on it. The template opens the necessary ports for the Minecraft client and for the Raspberry Jam mod. Therefore, you can start coding with e.g. C# with [the Decent .NET Minecraft Client](https://github.com/bleroy/minecraft.client).
 
+I wrote an [article in my blog](http://www.software-architects.com/devblog/2016/11/10/minecraft-server-for-dotnet-csharp-modding) about this Docker image and ARM template, too.
+
 ## More Information
 
 * Description of the [Docker Image for Raspberry Jam Mod](https://hub.docker.com/r/rstropek/raspberryjammoddocker/)

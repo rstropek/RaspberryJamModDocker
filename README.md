@@ -7,6 +7,8 @@
 
 This image should make it easy to run your own Minecraft server with Raspberry Jam Mod installed. You can use it to teach children programming with e.g. C# with [the Decent .NET Minecraft Client](https://github.com/bleroy/minecraft.client). 
 
+I wrote an [article in my blog](http://www.software-architects.com/devblog/2016/11/10/minecraft-server-for-dotnet-csharp-modding) about this Docker image, too.
+
 
 ## Running in Microsoft Azure
 
