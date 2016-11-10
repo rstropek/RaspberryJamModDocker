@@ -1,0 +1,4 @@
+Minecraft.Client
+bin
+obj
+*.lock.json
